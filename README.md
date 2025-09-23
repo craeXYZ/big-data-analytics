@@ -1,7 +1,1 @@
 Big Data Analytics for Business
-COMP6678004
-Credit 4/0
-LB20 - LEC
-
-PRIMARY INSTRUCTOR
-D3708 - ALBERT VERASIUS DIAN SANO, S.T., M.Kom.
